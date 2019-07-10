@@ -6,7 +6,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/MongoDB-Books/blob/master/mdb(4).pdf" style="text-decoration:none;">Git in Practice</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/MongoDB-Books/blob/master/mdb(5).pdf" style="text-decoration:none;"> Git Internals - Source code control and beyond </a></b></li>
                                 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/MongoDB-Books/blob/master/mdb(6).pdf" style="text-decoration:none;">MongoDB Applied Design Patterns</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/MongoDB-Books/blob/master/mdb(6).pdf" style="text-decoration:none;">Git: Pocket Guide</a></b></li>
                           
 <li><b><a target="_blank" href="https://github.com/manjunath5496/MongoDB-Books/blob/master/mdb(7).pdf" style="text-decoration:none;">50 Tips and Tricks for MongoDB Developers </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/MongoDB-Books/blob/master/mdb(8).pdf" style="text-decoration:none;">MongoDB in Action</a></b></li>
