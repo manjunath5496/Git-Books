@@ -1,9 +1,9 @@
 <ul>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/MongoDB-Books/blob/master/mdb(1).pdf" style="text-decoration:none;">MongoDB and Python </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/MongoDB-Books/blob/master/mdb(2).pdf" style="text-decoration:none;">Getting MEAN with Mongo, Express, Angular, and Node</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/MongoDB-Books/blob/master/mdb(3).pdf" style="text-decoration:none;">MongoDB Cookbook</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/MongoDB-Books/blob/master/mdb(1).pdf" style="text-decoration:none;">Building Tools with GitHub </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/MongoDB-Books/blob/master/mdb(2).pdf" style="text-decoration:none;">Git: Learn Version Control with Git: A step-by-step Ultimate beginners Guide</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/MongoDB-Books/blob/master/mdb(3).pdf" style="text-decoration:none;">Git Best Practices Guide</a></b></li>
                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/MongoDB-Books/blob/master/mdb(4).pdf" style="text-decoration:none;">MongoDB: The Definitive Guide</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/MongoDB-Books/blob/master/mdb(4).pdf" style="text-decoration:none;">Git in Practice</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/MongoDB-Books/blob/master/mdb(5).pdf" style="text-decoration:none;">MongoDB Tutorial</a></b></li>
                                 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/MongoDB-Books/blob/master/mdb(6).pdf" style="text-decoration:none;">MongoDB Applied Design Patterns</a></b></li>
