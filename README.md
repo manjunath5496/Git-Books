@@ -22,7 +22,7 @@
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/MongoDB-Books/blob/master/mdb(15).pdf" style="text-decoration:none;">Pro Git </a></b></li>
 
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/MongoDB-Books/blob/master/mdb(16).pdf" style="text-decoration:none;">Mastering Git</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/MongoDB-Books/blob/master/mdb(15).pdf" style="text-decoration:none;">Pro Git </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/MongoDB-Books/blob/master/mdb(16).pdf" style="text-decoration:none;">Professional Git</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/MongoDB-Books/blob/master/mdb(15).pdf" style="text-decoration:none;">Version Control with Git </a></b></li>
  
  </ul>
